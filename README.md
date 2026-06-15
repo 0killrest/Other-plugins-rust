@@ -2,7 +2,6 @@
 ```markdown
 # SystemBoost – Performance & Memory Optimization
 
-![Console Output](1000033983.png)
 
 > **⚠️ ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ**  
 > Данный плагин предназначен **ИСКЛЮЧИТЕЛЬНО для использования на СОБСТВЕННОМ сервере**.  
